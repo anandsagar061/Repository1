@@ -1,0 +1,37 @@
+{
+    "username": "test4@demo.inv",
+    "password": "Iamtesting123",
+    "Birthdate": "06/24/1979",
+    "Agency": "demo",
+    "firstname": "Demo",
+    "lastname": "cabel",
+    "persona": "intake"
+  },
+  {
+    "username": "test@test.inv",
+    "password": "Admin123",
+    "Birthdate": "06/24/1979",
+    "Agency": "primavera",
+    "firstname": "primavera",
+    "lastname": "john",
+    "persona": "intake"
+  },
+  {
+    "username": "test@test2.inv",
+    "password": "Iamtesting123",
+    "Birthdate": "06/24/1979",
+    "Agency": "primavera",
+    "firstname": "Demo",
+    "lastname": "cabel",
+    "persona": "admin"
+  },
+  {
+    "username": "test@demo.inv",
+    "password": "Admin123",
+    "Birthdate": "06/24/1979",
+    "Agency": "demo",
+    "firstname": "Demo",
+    "lastname": "cabel",
+    "persona": "admin"
+  }
+]
